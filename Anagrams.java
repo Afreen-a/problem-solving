@@ -30,7 +30,7 @@ class Result {
 
 }
 
-public class anagrams {
+public class Anagrams {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter String 1: ");
