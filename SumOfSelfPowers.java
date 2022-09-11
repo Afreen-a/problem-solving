@@ -1,5 +1,4 @@
 import java.util.*;
-import java.lang.Math;
 import java.math.BigInteger;  
 public class SumOfSelfPowers {
 
@@ -15,6 +14,6 @@ public class SumOfSelfPowers {
          BigInteger value = new BigInteger("10000000000");   
          sum = sum.mod(value);
          System.out.println(sum);
-        
+         sc.close();
     }
 }
